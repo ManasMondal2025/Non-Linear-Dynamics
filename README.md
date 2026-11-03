@@ -54,11 +54,11 @@ $$y_3 = \frac{a_1}{w}\left(1-\frac{x_3}{K}\right)\left(\frac{x_3^2}{j}+x_3+a\rig
 
 `x3` is a positive root of the cubic
 
-$$f(x_3) = B^*x_3^3 - \big(B^*K + (C^*-B^*)j\big)x_3^2 + j\big((C^*-B^*)K + aB^*\big)x_3 + jK(D_2 - B^*a) = 0$$
+$$f(x_3) = B^{\ast}x_3^3 - \big(B^{\ast}K + (C^{\ast}-B^{\ast})j\big)x_3^2 + j\big((C^{\ast}-B^{\ast})K + aB^{\ast}\big)x_3 + jK(D_2 - B^{\ast}a) = 0$$
 
 with
 
-$$B^* = \frac{a_1}{w}\left(\frac{w_3}{c} + \frac{a_2w_3b}{w_2c} - 1\right),\qquad C^* = \frac{a_1w_1w_3b}{w\,w_2\,c}$$
+$$B^{\ast} = \frac{a_1}{w}\left(\frac{w_3}{c} + \frac{a_2w_3b}{w_2c} - 1\right),\qquad C^{\ast} = \frac{a_1w_1w_3b}{w\,w_2\,c}$$
 
 **Existence conditions for E3**
 
